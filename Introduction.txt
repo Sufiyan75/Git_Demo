@@ -3,3 +3,4 @@ I completed my bachleor in Bachleors of computer application from Saint Xavier's
 I am pursuing my master in Masters of computer application from GLS University, Ahmedabad.
 I came accross various programming languages like c, c++, .net, javascript, java, python, etc. 
 But i choose to prefer python programming because it is more likely a English Language. Easy to understand.
+I also learned framework of python like Django, Flask and Mysql, Sqlite.
